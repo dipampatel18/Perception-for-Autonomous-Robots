@@ -2,9 +2,9 @@ Steps for Execution of Project 4: Traffic Sign Recognition
 
 Instructions for running the code-
 
-1. Extract the folder ‘dipu18_proj4’ to any of your folders.
+1. Extract the folder â€˜dipu18_proj4â€™ to any of your folders.
 
-2. ‘dipu18_proj4’ contains the following files-
+2. â€˜dipu18_proj4â€™ contains the following files-
 
 	I. P4_Submission
 		
