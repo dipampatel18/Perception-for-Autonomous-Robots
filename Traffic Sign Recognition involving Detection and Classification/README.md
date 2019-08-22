@@ -1,4 +1,4 @@
-### Course Project for ENPM673 : Perception for Autonomous Robots
+# Course Project : Traffic Sign Detection & Classification
 
 Traffic Sign Recognition can be staged into two sections Traffic Sign Detection and Traffic Sign Classification. This is one way to perceive the recognition pipeline. In the Detection stage we aim to extract possible candidates/regions which contain some traffic sign (we do not care what the sign might be). In the Classification stage, we go over each Region of Interest (RoI) and identify what sign it represents i.e., given that we know a set of traffic signs we are now classifying what this specific RoI represents.
 
