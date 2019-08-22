@@ -1,4 +1,4 @@
-# Course Project for ENPM673 : Perception for Autonomous Robots
+# Course Project : Lane Detection
 
 Simple Lane Detection to mimic Lane Departure Warning systems used in Self Driving Cars.
 
